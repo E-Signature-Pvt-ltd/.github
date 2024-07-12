@@ -3,7 +3,7 @@
 </h1>
 ============================
 
-<p>Welcome to out page! </br> We are a full-stack mobile and web app development company with over 15 Years of Industry Experience</p>
+<h3>Welcome to out page! </br> We are a full-stack mobile and web app development company with over 15 Years of Industry Experience</h3>
 --------------------------
 
 *   🌍  We are based in Kathmandu, Bagmati Province, Nepal
