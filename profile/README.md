@@ -42,16 +42,5 @@
 [![My Medium story](https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@e-signature&index=1&source=medium)](#)
 <!-- BLOG-POST-LIST:END -->
 
-###
-
-<h3 align="left">🔥   Our Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=e-signature-pvt-ltd" alt="e-signature-pvt-ltd" /></a> </p>
