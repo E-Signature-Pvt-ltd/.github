@@ -7,9 +7,6 @@
 *   🌍  We are based in Kathmandu, Bagmati Province, Nepal
 *   ✉️  You can contact us at info@esignature.com.np, brijesh@esignature.com.np
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=e-signature-pvt-ltd&label=Profile%20views&color=0e75b6&style=flat" alt="e-signature-pvt-ltd" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=e-signature-pvt-ltd" alt="e-signature-pvt-ltd" /></a> </p>
 
 <h3>Where to find us:</h3>
 <p>
