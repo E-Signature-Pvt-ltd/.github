@@ -1,10 +1,8 @@
 <h1>
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, nice to see you.
 </h1>
-============================
 
-<h3>Welcome to out page! </br> We are a full-stack mobile and web app development company with over 15 Years of Industry Experience</h3>
---------------------------
+<h3>Welcome to our page! </br> We are a full-stack mobile and web app development company with over 15 Years of Industry Experience</h3>
 
 *   🌍  We are based in Kathmandu, Bagmati Province, Nepal
 *   ✉️  You can contact us at info@esignature.com.np, brijesh@esignature.com.np
